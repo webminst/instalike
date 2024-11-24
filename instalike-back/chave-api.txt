@@ -1,0 +1,4 @@
+GEMINI_API_KEY = AIzaSyCmleH7jS4JKw4KjLOsupFwkcMx3mobb2E
+Giovanni - Giggio56
+String de conexão:
+mongodb+srv://Giovanni:Giggio56@cluster0.5evmy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
